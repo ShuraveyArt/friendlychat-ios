@@ -14,3 +14,4 @@ pod 'Crashlytics', '~> 3.9.3'
 
 target 'FriendlyChatSwift' do
 end
+pod 'Firebase/Core'
